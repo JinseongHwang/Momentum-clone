@@ -9,6 +9,7 @@ function getConditionIcon(condition) {
             return '⛈';
             break;
         case "Drizzle":
+        case "Mist":
             return '🌦';
             break;
         case "Rain":
