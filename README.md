@@ -12,3 +12,4 @@
 > 03. [CSS 기본 스타일 적용 방법](https://blog.naver.com/eddy5360/221918854358)
 > 04. [Layout 설정](https://blog.naver.com/eddy5360/221927820902)
 > 05. [LESS를 활용한 CSS 프로그래밍](https://blog.naver.com/eddy5360/221928963397)
+> 06. [필수 CSS3 속성으로 애니메이션 구현](https://blog.naver.com/eddy5360/221929011394)
