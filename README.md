@@ -19,3 +19,4 @@
 > 01. [변수 선언하기](https://blog.naver.com/eddy5360/221987694553)
 > 02. [배열과 오브젝트](https://blog.naver.com/eddy5360/221987760057)
 > 03. [함수](https://blog.naver.com/eddy5360/221988683952)
+> 04. [조건문과 DOM함수](https://blog.naver.com/eddy5360/221990299807)
