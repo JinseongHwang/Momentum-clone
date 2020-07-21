@@ -20,3 +20,4 @@
 > 02. [배열과 오브젝트](https://blog.naver.com/eddy5360/221987760057)
 > 03. [함수](https://blog.naver.com/eddy5360/221988683952)
 > 04. [조건문과 DOM함수](https://blog.naver.com/eddy5360/221990299807)
+> 05. [시계 만들기](https://blog.naver.com/eddy5360/221990840499)
